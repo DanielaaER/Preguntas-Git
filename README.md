@@ -13,8 +13,8 @@
 #### 1. Clonar el Repositorio:
 Primero, clona el repositorio en tu máquina local.
 ```bash
-git clone https://github.com/DanielaaER/preguntas-respuestas.git
-cd preguntas-respuestas
+git clone https://github.com/DanielaaER/Preguntas-Git.git
+cd Preguntas-Git
 ```
 
 #### 2. Explorar el Repositorio:
