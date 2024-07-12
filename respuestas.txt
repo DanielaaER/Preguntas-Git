@@ -1,12 +1,34 @@
-Respuesta 1:
-Respuesta 2:
-Respuesta 3:
-Respuesta 4:
-Respuesta 5:
-Respuesta 6:
-Respuesta 7:
-Respuesta 8:
-Respuesta 9:
-Respuesta 10:
+# Respuestas a las preguntas
 
-Frase secreta:
+Pregunta 1: ¿Cómo se ve el estado del repositorio?
+Respuesta 1: Con el comando git status. Letra: G
+
+Pregunta 2: ¿Cómo se hace un commit de los cambios?
+Respuesta 2: Con el comando git commit -m "mensaje". Letra: I
+
+Pregunta 3: ¿Cómo se ve el historial de commits?
+Respuesta 3: Con el comando git log. Letra: T
+
+Pregunta 4: ¿Cómo se añade un archivo al área de preparación?
+Respuesta 4: Con el comando git add <archivo>. Letra: Y
+
+Pregunta 5: ¿Cómo se cambia a una rama diferente?
+Respuesta 5: Con el comando git checkout <nombre_rama>. Letra: G
+
+Pregunta 6: ¿Cómo se fusiona una rama en la rama principal?
+Respuesta 6: Con el comando git merge <nombre_rama>. Letra: I
+
+Pregunta 7: ¿Cómo se recupera un archivo borrado en el área de preparación?
+Respuesta 7: Con el comando git reset HEAD <archivo>. Letra: T
+
+Pregunta 8: ¿Cómo se ven las diferencias entre el área de preparación y el último commit?
+Respuesta 8: Con el comando git diff --staged. Letra: H
+
+Pregunta 9: ¿Cómo se elimina un repositorio remoto?
+Respuesta 9: Con el comando git remote remove <nombre>. Letra: U
+
+Pregunta 10: ¿Cómo se sincroniza el repositorio local con el remoto?
+Respuesta 10: Con el comando git pull. Letra: B
+
+# Frase secreta
+Frase secreta: GIT Y GITHUB
