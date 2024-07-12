@@ -2,7 +2,7 @@
 
 ## ¿Realmente dominas  Git?
 
-  Bienvenidx a la dinamica de preguntas y respuestas para ver si realmente prestaste atención 🐱
+  Bienvenidx a la dinámica de preguntas y respuestas para ver si realmente prestaste atención 🐱
 
 ### Instrucciones para la Dinámica de Preguntas y Respuestas con Git
 
