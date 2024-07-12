@@ -11,9 +11,10 @@
 #### Pasos a Seguir:
 
 #### 1. Clonar el Repositorio:
-Primero, clona el repositorio en tu máquina local.
+Da un fork al repositorio desde el boton fork para agregarlo a tu cuenta de GitHub
+Despues, clona tu repositorio en tu máquina local.
 ```bash
-git clone https://github.com/DanielaaER/Preguntas-Git.git
+git clone https://github.com/<tu_usuario>/Preguntas-Git.git
 cd Preguntas-Git
 ```
 
