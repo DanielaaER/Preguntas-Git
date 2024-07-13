@@ -11,9 +11,10 @@
 #### Pasos a Seguir:
 
 #### 1. Clonar el Repositorio:
-Primero, clona el repositorio en tu máquina local.
+Da un fork al repositorio desde el boton fork para agregarlo a tu cuenta de GitHub
+Despues, clona tu repositorio en tu máquina local.
 ```bash
-git clone https://github.com/DanielaaER/Preguntas-Git.git
+git clone https://github.com/<tu_usuario>/Preguntas-Git.git
 cd Preguntas-Git
 ```
 
@@ -47,3 +48,6 @@ Une las letras encontradas en el orden correcto para formar la frase secreta.
 y anotalas en el archivo "respuestas.txt", el cual encontraras en la rama respuestas, no olvides crear tu propia rama a base de esta titulada "respuestas-<tu_nombre>" y haz un push al repositorio
 
 
+
+
+#### Pista: Podras encontrar pistas en los log de las ramas
