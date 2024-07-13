@@ -1,12 +1,12 @@
-Respuesta 1:
-Respuesta 2:
-Respuesta 3:
-Respuesta 4:
-Respuesta 5:
-Respuesta 6:
-Respuesta 7:
-Respuesta 8:
-Respuesta 9:
-Respuesta 10:
+Respuesta 1: Con el comando git status.
+Respuesta 2: Con el comando git commit -m "mensaje".
+Respuesta 3: Con el comando git log.
+Respuesta 4: Con el comando git add <archivo>.
+Respuesta 5: Con el comando git checkout <nombre_rama>.
+Respuesta 6: Con el comando git merge <nombre_rama>. 
+Respuesta 7: Con el comando git reset HEAD <archivo>.
+Respuesta 8: Con el comando git diff --staged.
+Respuesta 9: Con el comando git remote remove <nombre>.
+Respuesta 10: Con el comando git pull.
 
-Frase secreta:
+Frase secreta: GIT Y GITHUB
